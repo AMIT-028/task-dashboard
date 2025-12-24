@@ -111,7 +111,7 @@ How to run this project locally
 
 Clone the repository:
 
-git clone <your-repo-link>
+git clone (https://github.com/AMIT-028/task-dashboard)
 
 Go to the project folder:
 
